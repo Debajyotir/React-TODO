@@ -1,10 +1,11 @@
 import React from 'react'
-import RingLoader from "react-spinners/RingLoader"
+// import RingLoader from "react-spinners/RingLoader"
 
 const Loader = () => {
   return (
     <div className='loader'>
-        <RingLoader/>
+        {/* <RingLoader/> */}
+        Loader
     </div>
   )
 }
